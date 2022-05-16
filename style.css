@@ -37,6 +37,12 @@ body {
             margin-left: 10%;
             color: brown;
             }
+            h1.title-ariel {
+                color: wheat;
+                font-size: 40px;
+                text-align: center;
+                text-shadow: 4px 4px 10px black;
+                }
 
 
 
