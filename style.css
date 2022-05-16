@@ -2,4 +2,9 @@ body{
 background-color: darkcyan;
 
 }
-   
+ #title{
+     text-align: center;
+     font-size: 10vh;
+     text-shadow: 3px 3px 8px black;
+ } 
+  
