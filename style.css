@@ -34,14 +34,13 @@ img {
 }
 
 #img-caption {
-    font-size: 25px;
+    font-size: 18px;
     font-weight: bold;
-    margin-left: 10%;
     color: brown;
 }
 
 h1.title-ariel {
-    color: wheat;
+    color: black;
     font-size: 40px;
     text-align: center;
     text-shadow: 4px 4px 10px black;
@@ -65,7 +64,7 @@ a {
     }
 
     #copyright{
-        color: aliceblue;
+        color: black;
         font-size: 20px;
         font-weight: bold;
         }
