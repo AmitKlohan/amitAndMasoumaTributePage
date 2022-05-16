@@ -7,4 +7,11 @@ background-color: darkcyan;
      font-size: 10vh;
      text-shadow: 3px 3px 8px black;
  } 
+ #img-caption{
+     font-size: 25px;
+     font-weight: bold;
+     margin-left: 10%;
+     color: brown;
+
+ }
   
