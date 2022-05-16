@@ -11,5 +11,25 @@ body {
         padding: 2%;
     }
 
+    #image{
+        width: 80%;
+        height: 70%;
+    }
+
+    #tribute-info{
+        text-align: left;
+        padding: 5%;
+
+    }
+
+    #title {
+        text-align: center;
+        text-shadow: 3px 3px 8px black;
+        font-size: 10vh;
+        }
+
+
+
+
    
     
