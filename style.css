@@ -1,51 +1,65 @@
 body {
     background-color: rgb(131, 184, 184);
     margin: 10%;
+}
+
+main {
+    width: 70%;
+    background-color: blanchedalmond;
+    margin: auto;
+    text-align: center;
+    padding: 2%;
+}
+
+#image {
+    width: 80%;
+    height: 70%;
+}
+
+#tribute-info {
+    text-align: left;
+    padding: 5%;
+
+}
+
+#title {
+    text-align: center;
+    text-shadow: 3px 3px 8px black;
+    font-size: 10vh;
+}
+
+img {
+    display: inline-block;
+    width: 100%;
+}
+
+#img-caption {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 10%;
+    color: brown;
+}
+
+h1.title-ariel {
+    color: wheat;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 4px 4px 10px black;
+}
+
+a {
+    text-decoration: none;
+}
+
+#linked{
+    color: blue;
+    font-size: 20px;
+    padding: 2px;
     }
-
-    main{
-        width: 70%;
-        background-color: blanchedalmond;
-        margin: auto;
-        text-align: center;
-        padding: 2%;
+    #in{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border-radius: 3px;
+    padding: 2px;
     }
-
-    #image{
-        width: 80%;
-        height: 70%;
-    }
-
-    #tribute-info{
-        text-align: left;
-        padding: 5%;
-
-    }
-
-    #title {
-        text-align: center;
-        text-shadow: 3px 3px 8px black;
-        font-size: 10vh;
-        }
-        img{
-            display: inline-block;
-            width: 100%;
-            }
-            #img-caption {
-            font-size: 25px;
-            font-weight: bold;
-            margin-left: 10%;
-            color: brown;
-            }
-            h1.title-ariel {
-                color: wheat;
-                font-size: 40px;
-                text-align: center;
-                text-shadow: 4px 4px 10px black;
-                }
-
-
-
-
-   
-    
