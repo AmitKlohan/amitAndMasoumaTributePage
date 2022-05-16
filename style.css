@@ -1,3 +1,4 @@
+
 body {
     background-color: rgb(131, 184, 184);
     margin: 10%;
@@ -73,3 +74,30 @@ a {
         font-size: 20px;
         font-weight: bold;
         }
+
+body{
+background-color: darkcyan;
+
+}
+ #title{
+     text-align: center;
+     font-size: 10vh;
+     text-shadow: 3px 3px 8px black;
+ } 
+ #img-caption{
+     font-size: 25px;
+     font-weight: bold;
+     margin-left: 10%;
+     color: brown;
+
+ }
+ div #tribute-info{
+     margin: 10px;
+     margin-top: 10px;
+     background-color: rgb(184, 236, 184);
+     padding: 20px 20px;
+
+ }
+ 
+  
+
